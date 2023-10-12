@@ -3,8 +3,12 @@
 /*  NIM_IO.h                                                                  */
 /*  Ce module contient les fonctions necéssaires à l'implémantation du jeu NIM_IO */
 /*******************************************************************************/
-
+#include "nim.h"
+// Librairies usuelles à inclure 
+#include<stdio.h>
+#include<stdlib.h>
 #pragma once
+
 
 int lire_entier(int min, int max);
 /*Demande à l'usager de saisir un entier entre les bornes "min" et "max" (inclusivement). La fonction doit valider la saisie et redemander
