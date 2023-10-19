@@ -1,5 +1,6 @@
-﻿  m_distributions.c
-  WinConsole.c
-  Generating Code...
+﻿  tp1.cpp
   nim.cpp
-C:\Users\victo\source\repos\TP1\TP1\nim.cpp(2,10): fatal error C1083: Cannot open include file: 'nim.h': No such file or directory
+C:\Users\Anthony\Desktop\UNI\TP1\TP1\TP1\nim.h(61,1): fatal error C1020: #endif inattendu
+  nim_io.cpp
+C:\Users\Anthony\Desktop\UNI\TP1\TP1\TP1\nim.h(61,1): fatal error C1020: #endif inattendu
+  Génération de code en cours...
